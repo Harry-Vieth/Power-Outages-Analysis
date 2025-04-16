@@ -5,12 +5,8 @@ Introduction
     In this project I am looking at power outage information. I am asking .....
 
 Data Cleaning and Exploratory Data Analysis
-     <iframe
-    src="/assets/PriceVsState.html"
-    width="800"
-    height="600"
-    frameborder="0"
-     ></iframe>
+     <iframe src="assets/PriceVsState.html" width=800 height=600 frameborder=0>
+     </iframe>
 
 
 Framing a Prediction Problem
