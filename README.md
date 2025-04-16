@@ -6,7 +6,7 @@ Introduction
 
 Data Cleaning and Exploratory Data Analysis
      <iframe
-    src="assets/PriceVsState.html"
+    src="/assets/PriceVsState.html"
     width="800"
     height="600"
     frameborder="0"
