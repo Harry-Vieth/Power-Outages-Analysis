@@ -19,6 +19,7 @@ all the values to numbers as there was a mix of strings and numbers. Then I used
 <iframe src="/Power-Outages-Analysis/assets/PriceVsState.html" width="800" height="600" frameborder="0"></iframe>
 
 I did univariate analysis on TotalPrice by creating 10 bins. The majority of the prices are in the 5-15 range.
+<iframe src="/Power-Outages-Analysis/assets/univariate-plot.html" width="800" height="600" frameborder="0"></iframe>
 
 ## Framing a Prediction Problem
 
