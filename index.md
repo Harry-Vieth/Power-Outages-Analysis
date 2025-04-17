@@ -11,7 +11,8 @@ title: Power Outages Analysis
 In this project I am looking at power outage information. I am asking …..
 
 ## Data Cleaning and Exploratory Data Analysis
-
+I chose to analyze total price by state. To impute the missing states I used the most frequent state. To impute the missing values for total price I first converted
+all the values to numbers as there was a mix of strings and numbers. Then I used conditional mean imputation to fill missing values with the mean value of their respective state.
 <iframe src="/Power-Outages-Analysis/assets/PriceVsState.html" width="800" height="600" frameborder="0"></iframe>
 
 ## Framing a Prediction Problem
