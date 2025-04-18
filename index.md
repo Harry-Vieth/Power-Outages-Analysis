@@ -21,6 +21,10 @@ I did univariate analysis on TotalPrice by creating 10 bins. The majority of the
 I found the average cost for most states was around 10 cents per killowat-hour. There were some outliers such as Hawaii which was 23 cents.
 <iframe src="/Power-Outages-Analysis/assets/state-vs-price.html" width="800" height="600" frameborder="0"></iframe>
 
+I found through the pivot table that cold weather had the highest prices, warm had the least expensive, and normal climate was in between.
+<iframe src="/Power-Outages-Analysis/assets/pivot.html" width="800" height="600" frameborder="0"></iframe>
+
+
 ## Framing a Prediction Problem
 
 ## Baseline Model
