@@ -30,6 +30,7 @@ I used regression.
 
 
 ## Baseline Model
+filler...
 
 ## Final Model
 I added a year input that was standardized. Adding year likely improved the performance since there is a time-based correlation. I used Ridge Regression to prevent overfitting. The hyperparameter was alpha. In terms of features month was feature engineered to be scaled month, quantile month, and poly month. The baseline model's mean absolute error was 2.43 and 2.40 for the final model.
