@@ -24,10 +24,8 @@ I found the average cost for most states was around 10 cents per killowat-hour. 
 I found through the pivot table that cold weather had the highest prices, warm had the least expensive, and normal climate was in between.
 <iframe src="/Power-Outages-Analysis/assets/pivot.html" width="800" height="600" frameborder="0"></iframe>
 
-
 ## Framing a Prediction Problem
 I used regression. 
-
 
 ## Baseline Model
 Month is quantitative. Climate category is one-hot encoded and quantitative. Total price is quantitative. The mean absolute error is 2.43
