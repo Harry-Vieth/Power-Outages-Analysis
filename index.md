@@ -31,7 +31,7 @@ Here is Climate before and after --
 
 Here is Year before and after -- 
 <iframe src="/Power-Outages-Analysis/assets/Year-Pre-Imputation.html" width="800" height="600" frameborder="0"></iframe>
-<iframe src="/Power-Outages-Analysis/assets/Year-Post-Imputation.htm" width="800" height="600" frameborder="0"></iframe>
+<iframe src="/Power-Outages-Analysis/assets/Year-Post-Imputation.html" width="800" height="600" frameborder="0"></iframe>
 
 ## Framing a Prediction Problem
 I used regression. 
