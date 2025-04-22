@@ -29,6 +29,9 @@ Here is Climate before and after --
 <iframe src="/Climate-Category-Pre-Imputation.html/assets/pivot.html" width="800" height="600" frameborder="0"></iframe>
 <iframe src="/Climate-Category-Post-Imputation.html/assets/pivot.html" width="800" height="600" frameborder="0"></iframe>
 
+Here is Year before and after -- 
+<iframe src="/Year-Pre-Imputation.html/assets/pivot.html" width="800" height="600" frameborder="0"></iframe>
+<iframe src="/Year-Post-Imputation.html/assets/pivot.html" width="800" height="600" frameborder="0"></iframe>
 
 ## Framing a Prediction Problem
 I used regression. 
